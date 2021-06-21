@@ -1,0 +1,1 @@
+/home/xiao/catkin_ws/devel/.private/dr_spaam_ros/lib/python2.7/dist-packages/dr_spaam_ros/__init__.py

@@ -1,0 +1,4 @@
+Symlinking /home/xiao/catkin_ws/devel/share/dr_spaam_ros/cmake/dr_spaam_rosConfig.cmake
+Symlinking /home/xiao/catkin_ws/devel/share/dr_spaam_ros/cmake/dr_spaam_rosConfig-version.cmake
+Symlinking /home/xiao/catkin_ws/devel/lib/python2.7/dist-packages/dr_spaam_ros/__init__.py
+Symlinking /home/xiao/catkin_ws/devel/lib/pkgconfig/dr_spaam_ros.pc

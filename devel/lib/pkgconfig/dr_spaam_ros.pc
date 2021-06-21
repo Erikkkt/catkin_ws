@@ -1,0 +1,1 @@
+/home/xiao/catkin_ws/devel/.private/dr_spaam_ros/lib/pkgconfig/dr_spaam_ros.pc

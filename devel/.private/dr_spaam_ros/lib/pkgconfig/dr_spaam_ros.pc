@@ -1,0 +1,8 @@
+prefix=/home/xiao/catkin_ws/devel/.private/dr_spaam_ros
+
+Name: dr_spaam_ros
+Description: Description of dr_spaam_ros
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
